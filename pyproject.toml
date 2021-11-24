@@ -33,7 +33,7 @@ Documentation = "https://github.com/bsoyka/TODO: REPO/wiki"
 Source = "https://github.com/bsoyka/TODO: REPO"
 
 [tool.coverage.run]
-source = "TODO: PACKAGE"
+source = ["TODO: PACKAGE"]
 
 [tool.coverage.report]
 omit = ["tests/*", "setup.py"]
