@@ -1,8 +1,12 @@
 {
     "editor.rulers": [
-        72,
-        79,
         80
     ],
-    "reflowMarkdown.preferredLineLength": 80
+    "reflowMarkdown.preferredLineLength": 80,
+    "[python]": {
+        "editor.rulers": [
+            72,
+            79
+        ]
+    }
 }
